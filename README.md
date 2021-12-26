@@ -1,2 +1,9 @@
-# blog
-分享前端所学所想，记录自己的成长轨迹
+## 欢迎来到MongoCZK的博客
+
+[this详解](./post/javascript/1.this详解.md)
+
+
+
+### JavaScript
+[this详解](./post/javascript/1.this详解.md)
+
